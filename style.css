@@ -1,0 +1,27 @@
+body{width: 1875;
+height: 1215;
+padding: 0;
+margin: 0;}
+
+.insta-main{border: 1px solid black; margin-left: 700px; margin-top: 150px; width: 350px;}
+
+div img{margin-left: 70px; margin-top: 20px;}
+
+.para1{text-align: center; margin-right: 45px; margin-left: 45px; margin-top: -8px; color: grey; font-weight: 600;}
+
+.fb{border: 1px solid rgb(0, 149, 246); background-color: rgb(0, 149, 246);
+width: 260px; margin-left: 45px; border-radius: 6px; padding-top: 1px; padding-bottom: 5px;}
+
+button i{color: white;}
+
+button a{color: white; text-decoration: none; font-size: 14px;}
+
+div input{width: 260px; margin-left: 45px; border-radius: 3px; margin-bottom: 8px; background-color: rgba(228, 223, 223, 0.156);}
+
+.para2{font-size: 11px; text-align: center; margin-right: 45px; margin-left: 45px; margin-top: -8px; color: rgb(83, 76, 76); font-weight: 400; padding-top: 13px;}
+
+.para3{font-size: 11px; text-align: center; margin-right: 45px; margin-left: 45px; margin-top: -8px; color: rgb(83, 76, 76); font-weight: 400; padding-top: 13px;
+margin-top: -15px;}
+
+.signup{border: 1px solid rgb(0, 149, 246); background-color: rgb(0, 149, 246);
+    width: 260px; margin-left: 45px; border-radius: 5px; padding-top: 1px; padding-bottom: 5px;}
